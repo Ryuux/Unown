@@ -1,0 +1,4 @@
+Prompt: she sells seashells by the seashore
+Time elapsed: 6.94 seconds
+Write speed: 0.86 words for second
+
